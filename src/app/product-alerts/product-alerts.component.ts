@@ -13,3 +13,4 @@ export class ProductAlertsComponent {
   @Output() notify = new EventEmitter();
 }
 
+
